@@ -7,7 +7,6 @@ function App() {
   return (
     <div className="App">
       <NavBar />
-      <h2>Mobies Lib</h2>
       <Outlet />
     </div>
   );
